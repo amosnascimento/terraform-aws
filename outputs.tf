@@ -1,0 +1,1 @@
+#Atributos que podemos buscar de recursos criados, criando uma instancia EC2 podemos pegar o endereço de ip privado, publico, instancia que esta usando e podemos pegar nesse arquivo
